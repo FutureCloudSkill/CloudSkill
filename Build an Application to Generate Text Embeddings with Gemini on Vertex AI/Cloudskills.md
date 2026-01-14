@@ -24,7 +24,7 @@ def text_embedding(prompt):
     return vector
 
 if __name__ == "__main__":
-    sample_text = "fuckup Akshit gandu sale."
+    sample_text = "Future Cloud Skill"
     print(f"Processing text: '{sample_text}'")
     text_embedding(sample_text)
 
@@ -45,4 +45,5 @@ if __name__ == "__main__":
 # <img src="https://github.com/user-attachments/assets/6ee41001-c795-467c-8d96-06b56c246b9c" alt="icon" width="45" height="45"> [Future Cloud Skill](https://www.youtube.com/@FutureCloudSkill/featured) Don't Forget to like share & subscribe
 
 ### Thanks for watching and stay connected :)
+
 ---
